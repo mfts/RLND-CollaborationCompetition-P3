@@ -93,8 +93,8 @@ NUM_UPDATES = 1          # number of updates to the network
 
 TRAINING PARAMETERS
 ===================
-n_episodes=4000          # max number of episodes to train agent
-max_t=1000              # max number of steps agent is taking per episode
+n_episodes = 3000        # max number of episodes to train agent
+max_t = 1000             # max number of steps agent is taking per episode
 ```
 
 ## Training with DDPG
