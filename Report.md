@@ -129,10 +129,13 @@ The DDPG algorithm is a huge improvement in the space of off-policy actor-critic
 
 Next I will try the extension of the project, which consists of two cooperating agents competing against two cooperating agents in the game of soccer. The observation space is significantly larger at 112, and 6 and 4 actions for striker and goalie of each agent pair, respectively. This will involve making changes to how the agents are instantiated, in particular because the two cooperating agents (striker and goalie) have different reward functions. 
 
-*Failed training*
+### Training attempts
+*Failed training attempt*
+
 ![try 1][image5]
 
-*Failed training*
+*Failed training attempt*
+
 ![try 2][image6]
 
 *Successful training*
