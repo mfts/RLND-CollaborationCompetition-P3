@@ -139,4 +139,5 @@ Next I will try the extension of the project, which consists of two cooperating 
 ![try 2][image6]
 
 *Successful training*
+
 ![final][image4]
